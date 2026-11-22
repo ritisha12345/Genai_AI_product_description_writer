@@ -105,11 +105,8 @@ The application will open automatically in your browser at:
 
 ---
 
-## 📸 Capturing Screenshots for College Submission
-1. **Input Interface:** Prefill sample inputs using the quick sample expander.
-2. **Terminal Logs:** Capture the terminal window showing the `[OPENROUTER REQUEST LOG]` and `[SUCCESS]` notice.
-3. **Generated Marketing Kit:** Capture the title, the 3 equal-height benefit cards, and the 60-word description.
-4. **Export Action:** Capture the 1-click copy box and the `📥 Download Marketing Kit (.txt)` button.
+<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/708fcc03-16db-4939-b7dd-aa18135be053" />
+
 
 ---
 
