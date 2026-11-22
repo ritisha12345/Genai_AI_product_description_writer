@@ -106,6 +106,12 @@ The application will open automatically in your browser at:
 ---
 
 <img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/708fcc03-16db-4939-b7dd-aa18135be053" />
+<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/c3525198-f588-4948-aa9a-e1a31dc1d1ca" />
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/b623df47-f99f-45bb-b056-1c175c9b445e" />
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/733bfee3-9721-42c6-a80b-6bb5fbeb32ca" />
+
+
+
 
 
 ---
